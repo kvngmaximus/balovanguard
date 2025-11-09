@@ -1,14 +1,5 @@
 {
   "version": 2,
   "installCommand": "npm install",
-  "buildCommand": "npm run build",
-  "cleanUrls": true,
-  "trailingSlash": false,
-  "redirects": [
-    {
-      "source": "/https://github.com/kvngmaximus/portfolio-main/issues",
-      "destination": "https://github.com/kvngmaximus/portfolio-main/issues",
-      "permanent": false
-    }
-  ]
+  "buildCommand": "npm run build"
 }
