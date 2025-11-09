@@ -155,12 +155,12 @@ const AllFavTechs = () => {
                     >
                         <Tooltip>
                             <TooltipTrigger>
-                                <div className="transition duration-300 ease-out text-neutral-700 hover:text-[#336791]">
-                                    <SiPostgresql className="w-6 h-6" />
+                                <div className="transition duration-300 ease-out text-neutral-700 hover:text-[#FF9A00]">
+                                    <SiAdobeillustrator className="w-6 h-6" />
                                 </div>
                             </TooltipTrigger>
                             <TooltipContent>
-                                <p>Postgresql</p>
+                                <p>Adobe Illustrator</p>
                             </TooltipContent>
                         </Tooltip>
                     </motion.li>
@@ -170,12 +170,12 @@ const AllFavTechs = () => {
                     >
                         <Tooltip>
                             <TooltipTrigger>
-                                <div className="transition duration-300 ease-out text-neutral-700 hover:text-[#FF9A00]">
-                                    <SiAdobeillustrator className="w-6 h-6" />
+                                <div className="transition duration-300 ease-out text-neutral-700 hover:text-[#336791]">
+                                    <SiPostgresql className="w-6 h-6" />
                                 </div>
                             </TooltipTrigger>
                             <TooltipContent>
-                                <p>Adobe Illustrator</p>
+                                <p>Postgresql</p>
                             </TooltipContent>
                         </Tooltip>
                     </motion.li>
