@@ -1,27 +1,18 @@
 # A - Full Stack Developer 👨‍💻
 
-![Screenshot (725)](https://github.com/kvngmaximus/portfolio-main/assets/111555846/b7ab4ad2-e499-4741-bf48-52970d4e4f57)
-
 
 Welcome to my Portfolio website! Here you'll find a collection of projects showcasing my skills as a Full Stack Developer.
 
 ## Tech Stack:
-✅ **Frontend**
   - Next.js
   - Tailwind CSS
-  - React Query
+  - React
   - Shadcn UI
   - Framer Motion
-  - Mantine
-
-✅  **Backend**
-  - Hygraph (CMS)
-  - GraphQL
-  - Node.js
-  - Axios
 
 ✅ **Tools and Other Technologies**
   - Figma
+  - Adobe Suite 
   - Git and GitHub
  
 
