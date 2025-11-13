@@ -8,16 +8,16 @@ export const demoProjects: Project[] = [
     github: 'https://github.com/acedly/acedly',
     view: 'https://acedly.xyz',
     stack: ['NEXTJS', 'SUPABASE', 'SHADCN UI'],
-    image: [{ url: '/projects/project-one.png' }],
+    image: [{ url: '/projects/prroject-one.png' }],
   },
   {
-    title: 'Balx',
+    title: 'Cryzian',
     description:
-      'A web application for a design and tech studio to help them showcase their offers and services.',
-    github: 'https://github.com/kvngmaximus/balx',
-    view: 'https://balx.xyz',
+      'A website and web application for a startup merging Web3 with Artificial Intelligence to create a decentralized, secure, and transparent platform for education.',
+    github: 'https://github.com/kvngmaximus/cryzian',
+    view: 'https://cryzian.xyz',
     stack: ['VITE', 'REACT', 'SUPABASE', 'SHADCN UI'],
-    image: [{ url: '/projects/project-2.png' }],
+    image: [{ url: '/projects/prroject-2.png' }],
   },
   {
     title: 'Mid Max',
@@ -26,15 +26,15 @@ export const demoProjects: Project[] = [
     github: 'https://github.com/example/texto',
     view: 'https://mmdesignhub.vercel.app',
     stack: ['REACT', 'SUPABASE', 'SHADCN UI'],
-    image: [{ url: '/projects/project-3.png' }],
+    image: [{ url: '/projects/prroject-3.png' }],
   },
   {
     title: 'Design Challenge',
     description:
       'A 30day brand design challenge for 30 fictional startups run throughout the month of October.',
     github: 'https://www.instagram.com/balovanguard/',
-    view: 'https://design-challenge.vercel.app',  
+    view: 'https://pin.it/2Zcrqw6tb',  
     stack: ['ADOBE', 'PINTEREST', 'AI'],
-    image: [{ url: '/projects/project-4.png' }],
+    image: [{ url: '/projects/prroject-4.png' }],
   },
 ];
