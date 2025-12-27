@@ -20,11 +20,11 @@ export const demoProjects: Project[] = [
     image: [{ url: '/projects/prroject-2.png' }],
   },
   {
-    title: 'Mid Max',
+    title: 'Balx Studio',
     description:
       'A React website for a design agency run by a tech-savvy entrepreneur.',
-    github: 'https://github.com/example/texto',
-    view: 'https://mmdesignhub.vercel.app',
+    github: 'https://github.com/kvngmaximus/balx',
+    view: 'https://www.thebalxstudio.xyz',
     stack: ['REACT', 'SUPABASE', 'SHADCN UI'],
     image: [{ url: '/projects/prroject-3.png' }],
   },
